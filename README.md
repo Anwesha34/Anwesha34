@@ -1,5 +1,5 @@
 # 💫 Anwesha Das:
-A passionate developer from India. Enthusiastic about the new and emerging technologies. I'm currently focusing on Next.js , React Native and DSA.<br><br>
+A passionate developer who loves building and learning new technologies.<br><br>
 
 
 ## 🌐 Socials:
@@ -11,7 +11,6 @@ A passionate developer from India. Enthusiastic about the new and emerging techn
 ![](https://github-readme-stats.vercel.app/api?username=Anwesha34&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anwesha34&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwesha34&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
