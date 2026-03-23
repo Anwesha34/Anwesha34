@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Anwesha Das:
 A passionate developer from India. Enthusiastic about the new and emerging technologies. I'm currently focusing on Next.js , React Native and DSA.<br><br>
 
 
