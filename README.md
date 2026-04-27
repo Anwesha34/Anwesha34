@@ -1,4 +1,4 @@
-# 💫 Anwesha Das:
+# 💫 Annasha Das:
 A passionate developer who loves building and learning new technologies.<br><br>
 
 
